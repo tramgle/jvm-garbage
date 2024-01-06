@@ -1,0 +1,5 @@
+# No Class
+*.class
+
+# No archives
+*.jar
